@@ -1,0 +1,44 @@
+/* about page */
+
+.main-container {
+    width: 960px;
+    padding: 40px;
+    border: 2px solid;
+    border-color: #cccccc;
+    background-color: #ffffff;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#aboutHeading {
+    margin: 15px;
+    width: 20%;
+    float: left;
+}
+
+img {
+    margin: 15px;
+    width: 20%;
+    float: left;
+}
+
+.paragraphs {
+    width: 60%;
+    margin: 15px;
+    float: left;
+}
+
+/* contact page */
+
+
+
+/* portfolio */
+
+.img-thumbnailx {
+    width: 275px;
+    height: 205px;
+    margin: 20px;
+    float: left;
+}
+
